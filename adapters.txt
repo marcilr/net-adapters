@@ -1,0 +1,6 @@
+adapters.txt
+Created Wed 13 Nov 2019 01:07:22 PM AKST
+Copyright (C) 2019 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+Adapters for network
