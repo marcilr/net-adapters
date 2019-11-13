@@ -1,6 +1,6 @@
 # manifest
 # Wed 13 Nov 2019 01:10:49 PM AKST
-# Copyright (C) 2016 by Raymond E. Marcil <marcilr@gmail.com>
+# Copyright (C) 2016-2019 by Raymond E. Marcil <marcilr@gmail.com>
 #
 # Manifest for resync application
 #
@@ -21,5 +21,6 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://git@github.com/marcilr/d-link.git   d-link
-ssh://git@github.com/marcilr/intel.git    intel
+ssh://git@github.com/marcilr/d-link.git    d-link
+ssh://git@github.com/marcilr/intel.git     intel
+ssh://git@github.com/marcilr/netgear.git   netgear
