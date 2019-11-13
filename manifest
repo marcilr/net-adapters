@@ -21,4 +21,5 @@
 #
 # =====================================================================
 # =====================================================================
-ssh://git@github.com/marcilr/d-link   d-link
+ssh://git@github.com/marcilr/d-link.git   d-link
+ssh://git@github.com/marcilr/intel.git    intel
