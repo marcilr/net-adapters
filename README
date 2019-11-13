@@ -10,3 +10,6 @@ adapters.txt
 
 links.txt
   Links for network adapters
+
+manifest
+  Manifest for resync application
